@@ -30,8 +30,3 @@ Welcome to the "Image Classification with CNNs" project repository! This project
 
 Contributions and improvements to this repository are welcome! Feel free to submit pull requests, open issues, or provide feedback to enhance this project.
 
-## License
-
-This project is under the [MIT License](LICENSE.md), allowing for free use and distribution.
-
-Join us on this exciting journey into the world of deep learning, computer vision, and image classification!
